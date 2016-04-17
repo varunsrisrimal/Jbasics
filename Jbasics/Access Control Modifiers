@@ -1,0 +1,11 @@
+Default:
+Visible to the package (the default). No modifiers are needed.
+
+Private:
+Visible to the class only.
+
+Public
+Visible to the world.
+
+Protected
+Visible to the package and all subclasses.
